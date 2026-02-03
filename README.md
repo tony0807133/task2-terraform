@@ -22,8 +22,8 @@ Steps followed:
 4. Used t2.micro instance
 5. Configured security group for SSH
 6. Connected via SSH
-![Manual EC2 Details](task-2/Screenshot 2026-02-03 145405.png)
-![Manual EC2 SSH](task-2/Screenshot 2026-02-03 145745.png)
+![Manual EC2 Details](task-2/s1.png)
+![Manual EC2 SSH](task-2/s2.png)
 
 ---
 
@@ -38,5 +38,5 @@ Steps followed:
 terraform init
 terraform plan
 terraform apply
-![Terraform Apply](task-2/Screenshot 2026-02-03 145514.png)
-![Terraform EC2 Running](task-2/Screenshot 2026-02-03 160230.png)
+![Terraform Apply](task-2/s3.png)
+![Terraform EC2 Running](task-2/s4.png)

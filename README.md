@@ -38,6 +38,6 @@ Steps followed:
 terraform init
 terraform plan
 terraform apply
----
+```
 ![Terraform Apply](task-2/s3.png)
 ![Terraform EC2 Running](task-2/s4.png)
